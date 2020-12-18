@@ -3,7 +3,9 @@ This interview question is about time complexity.
 Time complexity refers to the amount of computer time it takes to run analgorithm.
 
 There were 2 parts to this.
-
+<br />
+<br />
+<br />
 **1) Given a list of stock price, write a function to return the best outcome possible with a single buy/sell**
 
 Ex) 
@@ -57,8 +59,9 @@ We don't want to spend 45 minutes when the same thing could be done in 64ms.
 More importantly, we don't want to spend 45 minutes on cloud computing when it can be done in less than a second.
 
 Especially in the era of big data, be aware of time complexity and write smart and efficient codes!!
-
-
+<br />
+<br />
+<br />
 **2) Given a list of stock price, write a function to return the best outcome possible with multiple buy/sell**
 
 Ex) 
@@ -96,18 +99,13 @@ def find_best_outcome(ls):
                 price_buy = ls[i]
     return profit
 ```
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
 As mentioned earlier, time complexity is a big topic in the big data era. It is important and crucial to write efficient codes more than ever.
-
-
-
-
+<br />
+<br />
 Hope you enjoyed this.
-
+<br />
+<br />
 Please check out other contents as well and leave me any comments!

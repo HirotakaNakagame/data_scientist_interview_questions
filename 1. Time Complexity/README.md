@@ -7,6 +7,7 @@ There were 2 parts to this.
 1) Given a list of stock price, write a function to return the best outcome possible.
 
 Ex) input = [3, 6, 1, 8, 2, 4, 1, 5]
+
     output = 7 (bought on the 3rd day at $1 and sold on the 4th day at $8)
 
 

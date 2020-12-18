@@ -50,8 +50,10 @@ Below is computational times for each function when the input list's lengths are
 | efficient   | 1.04ms    | 7.7ms      | 63.8ms      |
 | inefficient | 273ms     | 28.7s      | 45m 4s      |
 
-You can see the "inefficient" function is very inefficient compared to the "efficient" function and the inefficient function.
+You can see the "inefficient" function is very inefficient compared to the "efficient" function.
 
-We wouldn't want to spend 45 minutes when the same thing could be done in 64ms.
+We don't want to spend 45 minutes when the same thing could be done in 64ms.
 
-More importantly, you dont want to spend 45 minutes on cloud computing when it can be done in less than a second.
+More importantly, we don't want to spend 45 minutes on cloud computing when it can be done in less than a second.
+
+Especially in the era of big data, be aware of time complexity and write smart and efficient codes!!
